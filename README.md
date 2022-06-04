@@ -20,8 +20,8 @@ pip2 install bs4
 
 pip2 install futures
 
-git clone 
-https://github.com/Khansahab078/LALA-DANGER/git
+
+git clone https://github.com/Khansahab078/LALA-DANGER/
 
 cd LALA-DANGER
 
